@@ -1,0 +1,14 @@
+h1{font-family:normal;font-size:30px; color:blue; text-align:center;
+text-shadow:2px 1px black; }
+body{background-image:url(index.jpg);
+background-size:cover;}
+h3{font-family:normal;color:black;text-shadow:2px 2px white;}
+a{color:red;}
+h4{font-family:normal;color:yellow;text-shadow:2px 2px black;}
+a{color:red;}
+input[type="submit"]{width:10%;
+display:block;
+box-sizing:border-box;
+background-color:black; 
+color:white;
+border-radius:40px;}

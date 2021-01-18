@@ -1,0 +1,25 @@
+
+body{background-image:url(index.jpg);
+background-size:cover;}
+h1{font-family:algerian;font-size:60px; color:blue; text-align:center;
+text-shadow:5px 2px black; }
+h3{font-family:normal;font-size:40px; color:yellow; text-align:center;
+text-shadow:4px 1px black; }
+p{font-family:algerian;text-shadow:2px 1px white;font-size:30px; color:darkblue;
+text-align:center;font-weight:bold;}
+h4{font-family:algerian;font-size:20px; color:black; text-align:center;
+ }
+ h2{font-family:algerian;font-size:20px; color:red; text-align:center;
+ }
+
+
+
+img{ hieght:150px; width:150px;
+border-radius:40px;}
+input[type="submit"]{width:10%;
+display:block;
+border-radius:40px;
+box-sizing:border-box;
+background-color:black; 
+color:white;}
+img:hover{box-shadow:0 0 12px 15px rgba(,0,0,.5);}
